@@ -1,5 +1,5 @@
 # UNO
-Hra pre viac hráčov
+Klasická kartová hra pre viac hráčov
 ==========================
 
 Zažite spoločenskú hru uno v elektronickej podobe. 
