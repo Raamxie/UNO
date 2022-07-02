@@ -8,6 +8,8 @@ Hra sa dá hrať:
   - lokálne
   - cez internet
   
+Hráči sa vedia zaregistrovať a prihlásiť do svojho profilu vďaka databáze s zašifrovanými heslami. Prihlásenie je podmienkou pre online hru.
+  
 Pravidlá hry:
 
 V balíčku je 108 kariet. Každý hráč na začiatku hry dostane 7 kariet. Na odhadzovací balíček sa položí karta tvárou nahor.
